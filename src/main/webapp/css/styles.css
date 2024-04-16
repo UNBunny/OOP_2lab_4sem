@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    color: #343a40;
+    margin: 0;
+    padding: 0;
+}
+.navbar {
+    background-color: #343a40 !important;
+}
+.navbar-brand, .nav-link {
+    color: #ffffff !important;
+    font-weight: bold;
+}
+.navbar-brand:hover, .nav-link:hover {
+    color: #ffc107 !important;
+}
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+h1 {
+    font-size: 3rem;
+    margin-bottom: 30px;
+    color: #343a40;
+}
+p {
+    font-size: 1.2rem;
+    line-height: 1.6;
+}
+footer {
+    background-color: #343a40;
+    color: #ffffff;
+    padding: 20px 0;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
